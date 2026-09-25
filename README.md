@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/rooh-09r/LeetCode/tree/master/0115-distinct-subsequences) |
+| [1096-brace-expansion-ii](https://github.com/rooh-09r/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1927-sum-game](https://github.com/rooh-09r/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rooh-09r/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rooh-09r/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/rooh-09r/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rooh-09r/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rooh-09r/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rooh-09r/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/rooh-09r/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rooh-09r/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -132,5 +135,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/rooh-09r/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rooh-09r/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/rooh-09r/LeetCode/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/rooh-09r/LeetCode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
