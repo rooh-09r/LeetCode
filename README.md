@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rooh-09r/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rooh-09r/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/rooh-09r/LeetCode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/rooh-09r/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rooh-09r/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rooh-09r/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rooh-09r/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1872-stone-game-viii](https://github.com/rooh-09r/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/rooh-09r/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/rooh-09r/LeetCode/tree/master/2029-stone-game-ix) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rooh-09r/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/rooh-09r/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rooh-09r/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/rooh-09r/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
