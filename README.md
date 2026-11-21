@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/rooh-09r/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rooh-09r/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rooh-09r/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/rooh-09r/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/rooh-09r/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rooh-09r/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3525-find-x-value-of-array-ii](https://github.com/rooh-09r/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rooh-09r/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rooh-09r/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/rooh-09r/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/rooh-09r/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Segment Tree
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rooh-09r/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/rooh-09r/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rooh-09r/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/rooh-09r/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rooh-09r/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rooh-09r/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rooh-09r/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/rooh-09r/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/rooh-09r/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Union-Find
 |  |
 | ------- |
@@ -254,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/rooh-09r/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+## Tree
+|  |
+| ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/rooh-09r/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 <!---LeetCode Topics End-->
